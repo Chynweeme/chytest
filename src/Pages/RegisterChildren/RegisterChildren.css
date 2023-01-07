@@ -1,0 +1,33 @@
+.progress-bar2{
+    width: 200px;
+    height: 40px;
+    margin-top: 20px;
+}
+
+
+.childrenpic{
+    width: 80%;
+    height: 85vh;
+}
+
+.heading3{
+    margin-left: 12.5%;
+    font-weight: 600;
+    margin-top: 5%
+}
+
+.reg-form{
+    margin-left: 12.5%;
+}
+
+.child-input:invalid{
+    border: 1px solid rgb(221, 21, 21);
+}
+
+.child-input:invalid:required{
+    background-image: linear-gradient(to right, rgb(237, 235, 235), white)
+}
+
+.child-input:valid{
+    border: 1px solid green;
+}

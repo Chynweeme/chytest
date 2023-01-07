@@ -1,0 +1,42 @@
+.progress-bar{
+    width: 200px;
+    height: 40px;
+    margin-top: 20px;
+}
+
+.heading-adult{
+    margin-left: 12.5%;
+    font-weight: 600;
+}
+
+.adult-input{
+    width: 60%;
+    height: 40px;
+    border-color: rgba(0, 0, 0, 0.399);
+    border-radius: 5px;
+}
+
+.adult-input:invalid{
+    border: 1px solid rgb(221, 21, 21);
+}
+
+.adult-input:invalid:required{
+    background-image: linear-gradient(to right, rgb(237, 235, 235), white)
+}
+
+.adult-input:valid{
+    border: 1px solid green;
+}
+
+.adult-button{
+    margin-left: 12.5%;
+    margin-top: 30px;
+    color: white;
+
+  
+    
+}
+
+.terms-input{
+    margin-left: 12.5%;
+}

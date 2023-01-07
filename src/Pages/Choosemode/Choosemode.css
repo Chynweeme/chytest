@@ -1,0 +1,16 @@
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.image-wrapper{
+    margin-top: 10%;
+}
+
+.header{
+    padding-left: 16%;
+    position: absolute;
+    top: 130px;
+    
+
+}

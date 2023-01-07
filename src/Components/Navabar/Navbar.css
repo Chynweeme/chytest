@@ -1,0 +1,29 @@
+/* body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #100401;
+} */
+
+.navbar{
+    justify-content: space-between;
+    /* position: fixed; */
+    z-index: 3;
+}
+
+.menu-items{
+    justify-content: space-evenly;
+    color: black;
+}
+
+.sidepanel{
+    height: fit-content;
+    width: fit-content;
+    /* justify-content: end; */
+    background-color: white;
+    position: absolute;
+    top: 65px;
+    right: 0px;
+    justify-content: center;
+    
+
+}
