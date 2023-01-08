@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/chytest/static/css/main.496de198.css",
-    "main.js": "/chytest/static/js/main.df43561c.js",
+    "main.js": "/chytest/static/js/main.ee943ba9.js",
     "static/media/children.png": "/chytest/static/media/children.c827a4ab0b06a85ef50d.png",
     "static/media/backgroundhome.png": "/chytest/static/media/backgroundhome.8007e094dc49c770f233.png",
     "index.html": "/chytest/index.html",
     "main.496de198.css.map": "/chytest/static/css/main.496de198.css.map",
-    "main.df43561c.js.map": "/chytest/static/js/main.df43561c.js.map"
+    "main.ee943ba9.js.map": "/chytest/static/js/main.ee943ba9.js.map"
   },
   "entrypoints": [
     "static/css/main.496de198.css",
-    "static/js/main.df43561c.js"
+    "static/js/main.ee943ba9.js"
   ]
 }
