@@ -6,12 +6,12 @@ import Adults from './Pages/Adults/Adults.jsx';
 import { Homepage } from './Pages/Homepage/Homepage.jsx';
 import RegisterChildren from './Pages/RegisterChildren/RegisterChildren.jsx';
 
-const Layout = () => (
-  <>
-   <Navbar />
-  <Outlet />
-  </>
-)
+// const Layout = () => (
+//   <>
+//    <Navbar />
+//   <Outlet />
+//   </>
+// )
 
 
 function App() {
