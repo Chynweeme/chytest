@@ -6,12 +6,8 @@ import Adults from './Pages/Adults/Adults.jsx';
 import { Homepage } from './Pages/Homepage/Homepage.jsx';
 import RegisterChildren from './Pages/RegisterChildren/RegisterChildren.jsx';
 
-const Layout = () => (
-  <>
-   <Navbar />
-  <Outlet />
-  </>
-)
+// 
+
 
 
 function App() {
@@ -20,7 +16,7 @@ function App() {
   return (
     <div className='App'>
     <Routes>
-      <Route element={<Layout />}>
+      {/* <Route element={<Layout />}> */}
 
           <Route path="/" element={<Homepage />}></Route>
           <Route path="/home" element={<Homepage />}></Route>
@@ -34,7 +30,7 @@ function App() {
         {/* <Adults /> */}
         {/* <RegisterChildren /> */}
         {/* </div> */}
-      </Route>
+      {/* </Route> */}
     </Routes>
     </div>
   );
