@@ -1,6 +1,6 @@
 import './App.css';
 import { Routes, Route, Outlet } from "react-router-dom";
-import Navbar from './Components/Navabar/Navbar.jsx';
+// import Navbar from './Components/Navabar/Navbar.jsx';
 import Adults from './Pages/Adults/Adults.jsx';
 // import Choosemode from './Pages/Choosemode/Choosemode';
 import { Homepage } from './Pages/Homepage/Homepage.jsx';
@@ -20,7 +20,7 @@ function App() {
   return (
     <div className='App'>
     <Routes>
-      <Route element={<Layout />}>
+      {/* <Route element={<Layout />}> */}
 
           <Route path="/" element={<Homepage />}></Route>
           <Route path="/home" element={<Homepage />}></Route>
@@ -34,7 +34,7 @@ function App() {
         {/* <Adults /> */}
         {/* <RegisterChildren /> */}
         {/* </div> */}
-      </Route>
+      {/* </Route> */}
     </Routes>
     </div>
   );
