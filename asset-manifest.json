@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chytest/static/css/main.a34f80d0.css",
+    "main.js": "/chytest/static/js/main.835bbfb9.js",
+    "static/media/children.png": "/chytest/static/media/children.c827a4ab0b06a85ef50d.png",
+    "static/media/backgroundhome.png": "/chytest/static/media/backgroundhome.8007e094dc49c770f233.png",
+    "index.html": "/chytest/index.html",
+    "main.a34f80d0.css.map": "/chytest/static/css/main.a34f80d0.css.map",
+    "main.835bbfb9.js.map": "/chytest/static/js/main.835bbfb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a34f80d0.css",
+    "static/js/main.835bbfb9.js"
+  ]
+}
