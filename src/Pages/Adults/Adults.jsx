@@ -12,7 +12,7 @@ const Adults = () => {
                 <h1 className='heading-adult my-2 text-2xl'>Adults</h1>
                 <div className='reg-form grid grid-cols-2 mx-auto w-3/4'>
                     <div className='pt-5'>
-                        <p>Name</p>
+                        <p>Your Name</p>
                         <input type="text" name='fullname' required id="fullname" className='border adult-input'/>
                     </div>
 
